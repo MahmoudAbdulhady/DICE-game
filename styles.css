@@ -1,0 +1,23 @@
+body
+{
+  text-align: center;
+  background-color: #716F81;
+  padding: 7% 15%;
+}
+
+h1
+{
+  font-family: 'Ultra', serif;
+  font-size: 3.5rem;
+  color: #93D9A3;
+}
+h3
+{
+font-family: 'Oswald', sans-serif;
+  color: #93D9A3;
+  padding-top: 5%;
+}
+img
+{
+  padding: 2% 7%;
+}
